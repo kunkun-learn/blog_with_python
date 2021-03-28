@@ -1,3 +1,3 @@
 import os,re 
-def funtion():
-  ruturn "hello world!"
+def main():
+  ruturn "hello hk"
