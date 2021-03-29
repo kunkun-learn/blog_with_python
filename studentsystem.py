@@ -1,5 +1,5 @@
 # _*_ coding:utf-8   _*_
-#开发人员：hk
+#开发人员：hkunkun
 #文件名称：studentsystem.py
 # 开发工具：PyCharm
 import re  # 导入正则表达式模块
